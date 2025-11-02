@@ -87,9 +87,9 @@ When to pick each restaurant:
   </tr>
   <tr>
     <th>Battle Earnings*</th>
-    <td>7,250</td>
-    <td>16,250</td>
-    <td>39,500</td>
+    <td>6,480</td>
+    <td>16,200</td>
+    <td>39,600</td>
     <td>0</td>
   </tr>
   <tr>
@@ -101,16 +101,16 @@ When to pick each restaurant:
   </tr>
   <tr>
     <th>Net Profit w/o Items*</th>
-    <td>4,250</td>
-    <td>1,250</td>
-    <td>-60,500</td>
+    <td>3,480</td>
+    <td>1,200</td>
+    <td>-60,400</td>
     <td>-30,000</td>
   </tr>
   <tr>
     <th>Net Profit w/ Items*</th>
-    <td>5,500</td>
-    <td>8,750</td>
-    <td>31,500</td>
+    <td>4,730</td>
+    <td>8,700</td>
+    <td>39,600</td>
     <td>10,000</td>
   </tr>
   <tr>
@@ -122,17 +122,17 @@ When to pick each restaurant:
   </tr>
   <tr>
     <th>Profit (w/o Items) per Hour*</th>
-    <td>95,500 per hour</td>
-    <td>15,000 per hour</td>
-    <td>-363,000 per hour***</td>
+    <td>78,202 per hour</td>
+    <td>14,400 per hour</td>
+    <td>-362,400 per hour***</td>
     <td>-800,000 per hour***</td>
   </tr>
   <tr>
     <th>Profit (w/ Items) per Hour*</th>
-    <td>124,000 per hour</td>
-    <td>105,000 per hour</td>
-    <td>189,000 per hour</td>
-    <td>267,000 per hour</td>
+    <td>106,292 per hour</td>
+    <td>104,400 per hour</td>
+    <td>237,600 per hour</td>
+    <td>266,667 per hour</td>
   </tr>
   <tr>
     <th>Other Rewards</th>
@@ -235,6 +235,7 @@ When to pick each restaurant:
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
