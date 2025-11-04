@@ -17,10 +17,11 @@ If you are part of the developer team and want to push changes to pokemonautomat
 
 ### Required Installation
 
-To develop the website locally on your PC, you need to install MkDocs Material
+To develop the website locally on your PC, you need to install MkDocs Material. Also, install the plugin `mkdocs-include-dir-to-nav` to add folders to `nav`.
 
 ```
 pip install mkdocs-material "mkdocs-material[imaging]"
+pip install mkdocs-include-dir-to-nav
 ```
 
 See this page for more information/troubleshooting tips:
@@ -109,6 +110,7 @@ MkDocs parses markdown files (.md files) slightly differently than how Github re
 - If you have nested coding block (surrounded by three "`"), add empty lines surrounding them and have eight whitespaces to indent them.
 
 - MkDocs defaults all images' max-width to be 100% and height to be "auto" so we shouldn't use image tab attribute "height" in md files to control image sizes. Use width control like `width="500"` or `width="50%"` instead.
+
 
 
 
