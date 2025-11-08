@@ -328,6 +328,7 @@ This game cannot be played with a Pro Controller and instead requires the use of
 | **Farming:** |
 | [Restaurant Farmer](PokemonLZA/RestaurantFarmer.md)                    | Farm the restaurant battles for exp, items, and money. | Video         | All |
 | [Mega Shard Farmer](PokemonLZA/MegaShardFarmer.md)                     | Farm Mega Shards.                                      | Video         | All |
+| [Jacinthe Infinite Farmer](PokemonLZA/JacintheInfiniteFarmer.md)       | Repeatedly battle Jacinthe for exp and money.          | Video         | All |
 ||
 | **Shiny Hunting:** |
 | [Shiny Hunt - Bench Sit](PokemonLZA/ShinyHunt-BenchSit.md)             | Shiny hunt using the bench reset method.               | Video + Audio | All |
@@ -351,6 +352,7 @@ This game cannot be played with a Pro Controller and instead requires the use of
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
