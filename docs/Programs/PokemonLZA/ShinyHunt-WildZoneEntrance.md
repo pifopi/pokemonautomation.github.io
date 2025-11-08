@@ -1,6 +1,6 @@
 # Shiny Hunt - Wild Zone Entrance 
 
-A new beta version of the program is available [below](#shiny-hunt---wild-zone-entrance-in-beta-not-released-yet).
+A new beta version of the program is available [below](#beta-shiny-hunt-wild-zone-entrance).
 
 ## Program Description
 
@@ -101,7 +101,7 @@ Record a video of the encounter. This will happen each time a notification is se
 
 
 
-# Shiny Hunt - Wild Zone Entrance (In Beta, Not Released Yet)
+# Beta: Shiny Hunt - Wild Zone Entrance
 
 ## Program Description
 
