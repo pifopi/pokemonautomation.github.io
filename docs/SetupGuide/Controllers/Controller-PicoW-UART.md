@@ -231,7 +231,7 @@ You will notice that there are 7 controller options:
 - NS1: Left Joycon
 - NS1: Right Joycon
 
-"None" simply idles the Pico W and turns off its USB and antenna so it isn't trying to connect to a Switch. The others tell the Pico W to act as that controller respectively. 
+"None" simply idles the Pico W and turns off its USB and antenna so it isn't trying to connect to a Switch. The others tell the Pico W to act as that controller respectively. Setting to "None" is a convenient way to disconnect the Pico so you can connect your physical controller.
 
 Every time you press "Reset Ctrl" or change the controller type, it will disconnect from your Switch and try to reconnect using the new controller type. If the new controller is a wireless controller that has not been previously paired with the Switch, you will need to be in the Grip menu for the new controller to pair. See [Pairing Behavior](#pairing-behavior).
 
@@ -290,6 +290,7 @@ If you are experienced with circuits and would like to attempt a hardware fix, s
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
