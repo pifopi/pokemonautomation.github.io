@@ -6,7 +6,7 @@ Program: [Shiny Hunt - Bench Sit](ShinyHunt-BenchSit.md)
 
 | **Pokemon**  | **Instructions/Settings** | **Screenshots** |
 | --- | --- | --- |
-| Zone 20 Alphas | Use the East side benches near the fly entrance of Wild Zone 20.<br><br>**Run Forward Direction:** 3000 ms<br><br>This method will hit all 6 [spawner overloads.](https://www.youtube.com/watch?v=OuX9lfo_bKA) | [<img src="images/ShinyHuntLocations/BenchSit-WZ20-small.png" width="300">](images/ShinyHuntLocations/BenchSit-WZ20.png) |
+| Zone 20 Alphas | Use the East side benches near the fly entrance of Wild Zone 20.<br><br>**Run Forward Direction:**<br>- **Switch 1:** 3000 ms<br>- **Switch 2:** 2500 ms<br><br>This method will hit all 6 [spawner overloads.](https://www.youtube.com/watch?v=OuX9lfo_bKA) | [<img src="images/ShinyHuntLocations/BenchSit-WZ20-small.png" width="300">](images/ShinyHuntLocations/BenchSit-WZ20.png) |
 | Chikorita<br>Bulbasaur | Bench in the North East corner of Wild Zone 20<br><br>**Run Forward Direction:** 0 | [<img src="images/ShinyHuntLocations/BenchSit-ChikoritaBulbasaur-small.png" width="300">](images/ShinyHuntLocations/BenchSit-ChikoritaBulbasaur.png) |
 | Ralts | There are 2 Ralts spawners just north of Magenta Sector 7.<br>On the roof of that building are benches.<br><br>**Run Forward Direction:** 0 | [<img src="images/ShinyHuntLocations/BenchSit-Ralts-small.png" width="300">](images/ShinyHuntLocations/BenchSit-Ralts.png) |
 | Larvitar<br>Pansear (Alpha)<br>Pansage (Alpha)<br>Panpour (Alpha)  | In Rouge Sector 7. Use the northmost bench.<br><br>**Run Forward Direction:** 0 | [<img src="images/ShinyHuntLocations/BenchSit-Larvitar-small.png" width="300">](images/ShinyHuntLocations/BenchSit-Larvitar.png) |
@@ -27,21 +27,21 @@ Program: [Shiny Hunt - Wild Zone Entrance](ShinyHunt-WildZoneEntrance.md)
 
 | **Pokemon** | **Instructions/Settings** | **Screenshots** |
 | --- | --- | --- |
-| Fletchling<br>Bunnelby| **Wild Zone 1**<br> **Walk Time in Zone:** 0 ms | <img src="images/ShinyHuntLocations/WildZone1-FletchlingBunnelby.png" width="300"> |
-| Magikarp (Alpha)<br>Staryu (Alpha) | **Wild Zone 2**<br> **Walk Time in Zone:** 0 ms | <img src="images/ShinyHunt-WildZoneEntrance-ShalphaMagikarp.png" width="300"> |
-| Flabebe<br>Skiddo<br>Pikachu<br>Litleo (Alpha)<br>Pancham | **Wild Zone 3**<br> **Walk Time in Zone:** 2000 ms | <img src="images/ShinyHuntLocations/WildZone3-FlabebeLitleo.png" width="300"> |
-| Weedle<br>Kakuna<br>Spinarak<br>Gastly| **Wild Zone 4**<br> **Movement:** Approach Gate But Don't Enter.<br> Weedle and Kakuna spawn in the tree to the North. Spinarak and Gastly will spawn just inside the gate.  | <img src="images/ShinyHuntLocations/WildZone4-WeedleKakuna.png" width="300"> |
-| Ampharos (Alpha)<br>Froakie<br>Florges (Blue)<br>Venepede<br>Bunnelby| **Wild Zone 5**<br>**Walk Time in Zone:** 0 ms<br><br>Some are located in Zone 16 but flying to Wild Zone 5 covers it. | <img src="images/ShinyHuntLocations/WildZone16-Ampharos.png" width="300"><br><img src="images/ShinyHuntLocations/WildZone16-Froakie.png" width="300"> |
-| Whirlipede  (Alpha)<br>Bellsprout (Alpha)<br>Pidgey<br>Pidgeotto | **Wild Zone 5**<br>**Walk Time in Zone:** 3000 ms<br><br>Whirlipede  will be in the sewers below. | <img src="images/ShinyHuntLocations/WildZone5-Whirlpede.png" width="300"> |
-| Binacle (Alpha)<br>Houndour<br>Magikarp<br>Buneary | **Wild Zone 6**<br> **Walk Time in Zone:** 0 ms<br> Multiple spawns below the bridge to the left of the gate. | <img src="images/ShinyHuntLocations/WildZone6-BinacleBuneary.png" width="300"> |
-| Vanillite<br>Hippopotas<br>Fletchinder (Alpha) | **Wild Zone 7**<br> **Walk Time in Zone:** 500 ms | <img src="images/ShinyHuntLocations/WildZone7-VanilliteHippopotas.png" width="300"> |
-| Trubbish<br>Garbodor (Alpha) | **Wild Zone 8**<br> **Movement:** No Movement.<br> Located in an Alley North East of the Fly Point | <img src="images/ShinyHuntLocations/WildZone8-TrubbishGarbodor.png" width="300"> |
-| Stunfisk<br>Clauncher<br>Clawitzer (Alpha)<br>Gyarados | **Wild Zone 11**<br> **Movement:** No Movement. | <img src="images/ShinyHuntLocations/WildZone11-Clawitzer.png" width="300"> |
+| Fletchling<br>Bunnelby| **Wild Zone 1**<br> **Walk Time in Zone:** 0 ms | [<img src="images/ShinyHuntLocations/WildZone1-FletchlingBunnelby-small.png" width="300">](images/ShinyHuntLocations/WildZone1-FletchlingBunnelby.png) |
+| Magikarp (Alpha)<br>Staryu (Alpha) | **Wild Zone 2**<br> **Walk Time in Zone:** 0 ms | [<img src="images/WildZone2-ShalphaMagikarp-small.png" width="300">](images/WildZone2-ShalphaMagikarp.png) |
+| Flabebe<br>Skiddo<br>Pikachu<br>Litleo (Alpha)<br>Pancham | **Wild Zone 3**<br> **Walk Time in Zone:** 2000 ms | [<img src="images/ShinyHuntLocations/WildZone3-FlabebeLitleo-small.png" width="300">](images/ShinyHuntLocations/WildZone3-FlabebeLitleo.png) |
+| Weedle<br>Kakuna<br>Spinarak<br>Gastly| **Wild Zone 4**<br> **Movement:** Approach Gate But Don't Enter.<br> Weedle and Kakuna spawn in the tree to the North. Spinarak and Gastly will spawn just inside the gate. | [<img src="images/ShinyHuntLocations/WildZone4-WeedleKakuna-small.png" width="300">](images/ShinyHuntLocations/WildZone4-WeedleKakuna.png) |
+| Ampharos (Alpha)<br>Froakie<br>Florges (Blue)<br>Venepede<br>Bunnelby| **Wild Zone 5**<br>**Walk Time in Zone:** 0 ms<br><br>Some are located in Zone 16 but flying to Wild Zone 5 covers it. | [<img src="images/ShinyHuntLocations/WildZone16-Ampharos-small.png" width="300">](images/ShinyHuntLocations/WildZone16-Ampharos.png)<br>[<img src="images/ShinyHuntLocations/WildZone16-Froakie-small.png" width="300">](images/ShinyHuntLocations/WildZone16-Froakie.png) |
+| Whirlipede  (Alpha)<br>Bellsprout (Alpha)<br>Pidgey<br>Pidgeotto | **Wild Zone 5**<br>**Walk Time in Zone:** 3000 ms<br><br>Whirlipede  will be in the sewers below. | [<img src="images/ShinyHuntLocations/WildZone5-Whirlpede-small.png" width="300">](images/ShinyHuntLocations/WildZone5-Whirlpede.png) |
+| Binacle (Alpha)<br>Houndour<br>Magikarp<br>Buneary | **Wild Zone 6**<br> **Walk Time in Zone:** 0 ms<br> Multiple spawns below the bridge to the left of the gate. | [<img src="images/ShinyHuntLocations/WildZone6-BinacleBuneary-small.png" width="300">](images/ShinyHuntLocations/WildZone6-BinacleBuneary.png) |
+| Vanillite<br>Hippopotas<br>Fletchinder (Alpha) | **Wild Zone 7**<br> **Walk Time in Zone:** 500 ms | [<img src="images/ShinyHuntLocations/WildZone7-VanilliteHippopotas-small.png" width="300">](WildZone7-VanilliteHippopotas.png) |
+| Trubbish<br>Garbodor (Alpha) | **Wild Zone 8**<br> **Movement:** No Movement.<br> Located in an Alley North East of the Fly Point | [<img src="images/ShinyHuntLocations/WildZone8-TrubbishGarbodor-small.png" width="300">](images/ShinyHuntLocations/WildZone8-TrubbishGarbodor.png) |
+| Stunfisk<br>Clauncher<br>Clawitzer (Alpha)<br>Gyarados | **Wild Zone 11**<br> **Movement:** No Movement. | [<img src="images/ShinyHuntLocations/WildZone11-Clawitzer-small.png" width="300">](images/ShinyHuntLocations/WildZone11-Clawitzer.png) |
 | Excadrill (Alpha)<br>Drilbur<br>Aron<br>Lairon<br>Emolga| **Wild Zone 14**<br> **Walk Time in Zone:** 2000 ms | <img src="images/ShinyHuntLocations/WildZone14-Excadrill.png" width="300"><br><img src="images/ShinyHuntLocations/WildZone14-Aron.png" width="300"> |
-| Chespin<br>Diggersby| **Wild Zone 17**<br> With overloaded spawners.<br>**Movement:** No Movement| <img src="images/ShinyHuntLocations/WildZone17-Chespin.png" width="300"> |
-| Salamence (Alpha)<Bagon> | **Wild Zone 18**<br>Walk Time only needed for the Bagon. | <img src="images/ShinyHuntLocations/WildZone18-Salamence.png" width="300"> |
-| Audino<br>Kangaskhan<br>Eevee<br>Furfrou | **Wild Zone 19**<br> **Movement:** Approach Gate But Don't Enter. | <img src="images/ShinyHuntLocations/WildZone19-Kangaskhan.png" width="300"> | 
-| Totodile<br>Squirtle| **Wild Zone 20**<br> **Walk Time in Zone:** 500 ms | <img src="images/ShinyHuntLocations/WildZone20-TotodileSquirtle.png" width="300"> ||
+| Chespin<br>Diggersby| **Wild Zone 17**<br> With overloaded spawners.<br>**Movement:** No Movement| [<img src="images/ShinyHuntLocations/WildZone17-Chespin-small.png" width="300">](images/ShinyHuntLocations/WildZone17-Chespin.png) |
+| Salamence (Alpha)<Bagon> | **Wild Zone 18**<br>Walk Time only needed for the Bagon. | [<img src="images/ShinyHuntLocations/WildZone18-Salamence-small.png" width="300">](images/ShinyHuntLocations/WildZone18-Salamence.png) |
+| Audino<br>Kangaskhan<br>Eevee<br>Furfrou | **Wild Zone 19**<br> **Movement:** Approach Gate But Don't Enter. | [<img src="images/ShinyHuntLocations/WildZone19-Kangaskhan-small.png" width="300">](images/ShinyHuntLocations/WildZone19-Kangaskhan.png) | 
+| Totodile<br>Squirtle| **Wild Zone 20**<br> **Walk Time in Zone:** 500 ms | [<img src="images/ShinyHuntLocations/WildZone20-TotodileSquirtle-small.png" width="300">](images/ShinyHuntLocations/WildZone20-TotodileSquirtle.png) |
 
 <!-- 
 Numel has a chance to be alpha and will agro the moment you enter the gate. Need to handle that before this is public
@@ -61,6 +61,9 @@ Program: [Turbo A](../NintendoSwitch/TurboA.md) (located under the Nintendo Swit
 
 ## Credits
 
-- **Author:** Kuroneko/Mysticial, kichithewolf
+- Kuroneko/Mysticial
+- kichithewolf
+- Saber
+- dolphincurry
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
