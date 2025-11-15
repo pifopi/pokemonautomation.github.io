@@ -52,8 +52,8 @@ Program: [Turbo A](../NintendoSwitch/TurboA.md) (located under the Nintendo Swit
 
 | **Pokemon**  | **Instructions** | **Screenshots** |
 | --- | --- | --- |
-| Beldum,<br>Metang | In Lysandre Labs, run to the Beldum room, then fly back to the lab entrance.<br>Run to the teleporter in the screenshot and take it.<br>Once you hear the Beldum cry, start Turbo A.<br>[Video guide.](https://www.youtube.com/watch?v=DBwEtEonidI)| <img src="images/ShinyHuntLocations/TurboA-Beldum.png" width="300"> |
-| Honedge,<br>Doublade<br>Arbok (Alpha)<br>Ekans | Stand on the very first teleporter in Lysandre Labs.<br>[Video guide](https://www.youtube.com/watch?v=l58_9xUD-Yk) | <img src="images/ShinyHuntLocations/TurboA-Honedge.png" width="300"> |
+| Beldum,<br>Metang | In Lysandre Labs, run to the Beldum room, then fly back to the lab entrance.<br>Run to the teleporter in the screenshot and take it.<br>Once you hear the Beldum cry, start Turbo A.<br>[Video guide.](https://www.youtube.com/watch?v=DBwEtEonidI) | [<img src="images/ShinyHuntLocations/TurboA-Beldum-small.png" width="300">](images/ShinyHuntLocations/TurboA-Beldum.png) |
+| Honedge,<br>Doublade<br>Arbok (Alpha)<br>Ekans | Stand on the very first teleporter in Lysandre Labs.<br>[Video guide](https://www.youtube.com/watch?v=l58_9xUD-Yk) | [<img src="images/ShinyHuntLocations/TurboA-Honedge-small.png" width="300">](images/ShinyHuntLocations/TurboA-Honedge.png) |
 
 ## Credits
 
