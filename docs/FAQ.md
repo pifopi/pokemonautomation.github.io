@@ -68,7 +68,7 @@ The newer controllers are cheaper, much easier to setup, and more reliable than 
 If you are affected by the [Power Glitching](PowerGlitching.md) issue on the Switch 2, you will almost certainly want to upgrade to the new controllers.
 
 
-## But happened to the Microcontroller-only (MC) setup?
+## What happened to the Microcontroller-only (MC) setup?
 
 Unfortunately, Microcontroller (MC) automation has been discontinued.
 
