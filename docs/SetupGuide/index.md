@@ -120,7 +120,7 @@ While we support quite a few different setups, these are the 3 that we recommend
 
 For a complete list of setups - including older ones we no longer recommend, see our [Controller List](../ControllerList.md).
 
-*Please consult the [program list](../Programs/index.md) for the full compatibility table.*
+*Please consult the [program list](../Programs/index.md) for the full compatibility table.
 
 ### **Recommendations:**
 
@@ -193,6 +193,7 @@ Here are some misc. tips/tricks, and other hidden features of the CC programs!
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
