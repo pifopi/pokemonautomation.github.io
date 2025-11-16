@@ -4,9 +4,9 @@
 
 No! This project is intended for retail (unmodified) Switches. You do not need a hacked Switch.
 
-However, if you do have a hacked Switch, you can skip the microcontroller since we support sys-botbase as a controller setup.
+However, if you do have a hacked Switch, you can skip the microcontroller since we support sys-botbase as a game controller.
 
-Otherwise, having a hacked Switch will not provide any additional functionality. We do not support accessing game or system memory or anything that cannot be done with a manual controller.
+Otherwise, having a hacked Switch will not provide any additional functionality. We do not support accessing game or system memory or anything that cannot be done legitimately.
 
 In short, we are not a hacking group and we prefer to keep our distance from the hacking community.
 
