@@ -35,25 +35,6 @@ Furthermore, the project is large enough as it is and we need to draw the line s
 No. Same reason as above.
 
 
-## Why can't you connect directly to the Switch over USB? Why do you need a microcontroller?
-
-There are 2 categories of USB devices, "host" or "device".
-
-- A game controller is a USB device.
-- A computer's USB port is a USB host.
-
-Unfortunately, a computer's USB port cannot be reprogrammed as a USB device. Thus you need to use a microcontroller board that acts as a USB device to both the computer and the Switch.
-
-
-## Why can't you connect directly to the Switch using the computer's Bluetooth? NXBT and joycontrol can do this!
-
-NXBT and joycontrol are both Linux only. Windows and Mac require the use of a VM which is well above the difficulty threshold for our target audience.
-
-Linux is the only operating system that allows the low level access required to reprogram the bluetooth device to act as a wireless game controller. To do this on Windows, you would need a custom driver for the specific Bluetooth device. And we're not in the business of writing (signed) custom drivers for every Bluetooth controller on the market.
-
-Beyond this, there are concerns about timing stability. Unlike microcontrollers, computers have much more noise due to background programs.
-
-
 ## I'm an old user returning after a long absence. Is my Arduino/Teensy still good?
 
 Yes and no.
@@ -82,6 +63,25 @@ The old Microcontroller wiki can still be found here:
 However, it already breaks on the latest Switch firmware that added additional icons to the main menu.
 
 If you are dead-set on MC automation without a computer, you will need to look elsewhere.
+
+
+## Why can't you connect directly to the Switch over USB? Why do you need a microcontroller?
+
+There are 2 categories of USB devices, "host" or "device".
+
+- A game controller is a USB device.
+- A computer's USB port is a USB host.
+
+Unfortunately, a computer's USB port cannot be reprogrammed as a USB device. Thus you need to use a microcontroller board that acts as a USB device to both the computer and the Switch.
+
+
+## Why can't you connect directly to the Switch using the computer's Bluetooth? NXBT and joycontrol can do this!
+
+NXBT and joycontrol are both Linux only. Windows and Mac require the use of a VM which is well above the difficulty threshold for our target audience.
+
+Linux is the only operating system that allows the low level access required to reprogram the bluetooth device to act as a wireless game controller. To do this on Windows, you would need a custom driver for the specific Bluetooth device. And we're not in the business of writing (signed) custom drivers for every Bluetooth controller on the market.
+
+Beyond this, there are concerns about timing stability. Unlike microcontrollers, computers have much more noise due to background programs.
 
 
 <hr>
