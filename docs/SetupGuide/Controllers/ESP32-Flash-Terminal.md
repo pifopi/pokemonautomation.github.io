@@ -22,7 +22,9 @@ Briefly:
 - Change the directory to the directory containing the .bin file
     - e.g. Type in terminal: cd `[path to directory]`
 - Type in terminal: `esptool -p [PORT] write-flash 0x0 [ESP32-(S3).bin]`
-    - Replace `[PORT]` with your ESP32-S3 board's USB port name. e.g. COM5. You can find this using the Device Manager.
+    - If using Windows: replace `[PORT]` with your ESP32-S3 board's USB port name. e.g. COM5. You can find this using the Device Manager.
+    - If using MacOS: replace [PORT] with `/dev/tty.usbserial-xxxx`, where "xxxx" is the serial port number. e.g. `/dev/tty.usbserial-0001`
+    - Alternatively, if you only have one ESP32(-S3) device plugged in, just [omit `-p [PORT]`](https://docs.espressif.com/projects/esptool/en/latest/esp32/esptool/basic-options.html#serial-port-port-p). i.e. try `esptool write-flash 0x0 [ESP32-(S3).bin]`
     - Replace `[ESP32-(S3).bin]` with the ESP32 or ESP32-S3 .bin file that you want to flash.
     - Sometimes the flash can fail without reason. If it fails, try running the flash command again.
 
@@ -92,6 +94,7 @@ Briefly:
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
